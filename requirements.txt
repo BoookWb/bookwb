@@ -40,7 +40,7 @@ jupyterthemes==0.18.2
 kiwisolver==1.0.1
 kombu==3.0.37
 lesscpy==0.13.0
-lxml==4.2.3
+lxml==4.6.2
 matplotlib==2.2.2
 mccabe==0.6.1
 mogo==0.4.0
